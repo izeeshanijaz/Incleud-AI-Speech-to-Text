@@ -1,0 +1,6 @@
+{
+  "name": "Incleud AI Text-to-Speech",
+  "description": "Professional AI-powered text-to-speech tool with adjustable pitch, speed, and character voices.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["AI_TEXT_TO_SPEECH"]
+}
